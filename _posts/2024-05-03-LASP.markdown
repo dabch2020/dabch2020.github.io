@@ -22,6 +22,6 @@ tags:
 - [LASP](http://www.lasphub.com/#/lasp/laspHome): in.laspNN是LAMMPS的输入文件，data为结构坐标文件，lasp.str为结构空间群对称文件，也就是MS建模后可导出的car文件，lasp.in是参数势文件，TiO.pot是NN势文件。
 - 安装LASP主程序 lasp360_single_precision （需要先用公司邮箱注册，然后才能下载）
 - [安装LASP Examples](http://www.lasphub.com/#/lasp/examples)
-- [安装Intel oneAPI Toolkit](https://zhuanlan.zhihu.com/p/670055380)：主要会用到里面包含的Deep Neural Network Libary    
+- [安装Intel oneAPI Toolkit](https://zhuanlan.zhihu.com/p/670055380)：主要会用到里面包含的Deep Neural Network Library    
 
 >dabch，记录自己的学习。
