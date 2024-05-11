@@ -15,7 +15,7 @@ tags:
 ### 帮助儿子安装LASP - Large-scale Atomic Simulation with neural nextwork Potential
 - VirtualBox
 - Ubuntu
-- LASP：in.laspNN是LAMMPS的输入文件，data为结构坐标文件，lasp.str为结构空间群对称文件，也就是MS建模后可导出的car文件，lasp.in是参数势文件，TiO.pot是NN势文件。
+- LASP：[lasphub](http://www.lasphub.com) in.laspNN是LAMMPS的输入文件，data为结构坐标文件，lasp.str为结构空间群对称文件，也就是MS建模后可导出的car文件，lasp.in是参数势文件，TiO.pot是NN势文件。
 - Intel MPI    
 
 >dabch，记录自己的学习。
