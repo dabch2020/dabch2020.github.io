@@ -14,7 +14,7 @@ tags:
 > [刘智攀](https://baike.baidu.com/item/%E5%88%98%E6%99%BA%E6%94%80/10786800?fr=ge_ala)
 
 ### 帮助儿子安装LASP(Large-scale Atomic Simulation with neural nextwork Potential)
-- LASP只能运行在Linux系统上
+- LASP只能运行在Linux系统上,我家没有Linux PC，又不愿冒风险装双系统。决定就在Windows PC上装个Linux虚拟机
 - [使用VirtualBox安装Ubuntu Linux](https://blog.csdn.net/zsyf33078/article/details/133838203)
 - 安装Ubuntu增强功能：用于设置Windowns和Ubuntu之间的共享剪贴板和共享文件夹
 - ~/.bashrc 在这个文件里配置环境变量，装载Windowns和Ubuntu之间的共享文件夹。“~”代表主目录,也叫HOME目录，例如：“~”代表/home/steven
