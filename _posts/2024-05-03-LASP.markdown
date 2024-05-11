@@ -11,6 +11,7 @@ tags:
 ---
 
 > 萌新请参考: [用Github免费建立网站](https://www.bilibili.com/video/BV12H4y1N7Q4/)、[markdown常用语法](https://blog.csdn.net/Charmve/article/details/103717763)
+> [刘智攀](https://baike.baidu.com/item/%E5%88%98%E6%99%BA%E6%94%80/10786800?fr=ge_ala)
 
 ### 帮助儿子安装LASP - Large-scale Atomic Simulation with neural nextwork Potential
 - VirtualBox
