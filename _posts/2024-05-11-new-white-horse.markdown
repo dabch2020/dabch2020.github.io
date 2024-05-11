@@ -10,7 +10,7 @@ tags:
     - 新质生产力
 ---
 
-> 萌新请参考: [用Github免费建立网站](https://www.bilibili.com/video/BV12H4y1N7Q4/)、[MarkDown常用语法](https://blog.csdn.net/xdnxl/article/details/129518943(https://blog.csdn.net/Charmve/article/details/103717763)
+> 萌新请参考: [用Github免费建立网站](https://www.bilibili.com/video/BV12H4y1N7Q4/)、[markdown常用语法](https://blog.csdn.net/Charmve/article/details/103717763)
 
 ### 九方新白马指数（九方智投APP）
 &emsp;&emsp;1) 新质生产力                                   
