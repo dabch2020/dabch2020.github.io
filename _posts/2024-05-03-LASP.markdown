@@ -17,7 +17,7 @@ tags:
 - LASP只能运行在Linux系统上
 - [使用VirtualBox安装Ubuntu Linux](https://blog.csdn.net/zsyf33078/article/details/133838203)
 - 安装Ubuntu增强功能：用于设置Windowns和Ubuntu之间的共享剪贴板和共享文件夹
-- ~/.bashrc - 在这个文件里配置环境变量，装载Windowns和Ubuntu之间的共享文件夹。“~”代表主目录,也叫HOME目录，例如：“~”代表/home/steven
+- ~/.bashrc 在这个文件里配置环境变量，装载Windowns和Ubuntu之间的共享文件夹。“~”代表主目录,也叫HOME目录，例如：“~”代表/home/steven
 - 编辑文件内容需要用到[Linux文本编辑器vi或者vim](https://www.runoob.com/linux/linux-vim.html)：vim是vi的增强版本。例如：vim ~/.bashrc
 - [LASP](http://www.lasphub.com/#/lasp/laspHome): in.laspNN是LAMMPS的输入文件，data为结构坐标文件，lasp.str为结构空间群对称文件，也就是MS建模后可导出的car文件，lasp.in是参数势文件，TiO.pot是NN势文件。
 - 安装LASP主程序 lasp360_single_precision （需要先用公司邮箱注册，然后才能下载）
