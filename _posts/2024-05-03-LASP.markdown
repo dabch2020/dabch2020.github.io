@@ -13,9 +13,9 @@ tags:
 > 萌新请参考: [用Github免费建立网站](https://www.bilibili.com/video/BV12H4y1N7Q4/)、[markdown常用语法](https://blog.csdn.net/Charmve/article/details/103717763)
 
 ### 帮助儿子安装LASP
-&emsp; VirtualBox     
-&emsp; Ubuntu      
-&emsp; LASP - in.laspNN是LAMMPS的输入文件，data为结构坐标文件，lasp.str为结构空间群对称文件，也就是MS建模后可导出的car文件，http://lasp.in是参数势文件，TiO.pot是NN势文件。    
-&emsp; Intel MPI    
+- VirtualBox
+- Ubuntu
+- LASP：in.laspNN是LAMMPS的输入文件，data为结构坐标文件，lasp.str为结构空间群对称文件，也就是MS建模后可导出的car文件，lasp.in是参数势文件，TiO.pot是NN势文件。
+- Intel MPI    
 
 >dabch，记录自己的学习。
