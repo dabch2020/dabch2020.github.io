@@ -16,7 +16,7 @@ tags:
 ### 帮助儿子安装LASP(Large-scale Atomic Simulation with neural nextwork Potential)
 - LASP只能运行在Linux系统上
 - [使用VirtualBox安装Ubuntu Linux](https://blog.csdn.net/zsyf33078/article/details/133838203)
-- ~/.bashrc
+- ~/.bashrc - 在这个文件里配置环境变量
 - [LASP](http://www.lasphub.com/#/lasp/laspHome): in.laspNN是LAMMPS的输入文件，data为结构坐标文件，lasp.str为结构空间群对称文件，也就是MS建模后可导出的car文件，lasp.in是参数势文件，TiO.pot是NN势文件。
 - Intel MPI    
 
