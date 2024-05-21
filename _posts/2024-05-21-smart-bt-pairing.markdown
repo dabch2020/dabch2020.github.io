@@ -1,4 +1,3 @@
-
 ---
 layout:       post
 title:        "Smart/Swift Bluetooth Pairing"
@@ -7,7 +6,7 @@ header-style: text
 catalog:      true
 tags:
     - Bluetooth
-  ---
+---
 
 > 萌新请参考: [用Github免费建立网站](https://www.bilibili.com/video/BV12H4y1N7Q4/)、[markdown常用语法](https://blog.csdn.net/Charmve/article/details/103717763)
 
