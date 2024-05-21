@@ -25,5 +25,12 @@ tags:
 - 完成配对过程,将两个设备的连接信息保存下来,以便后续快速重连。
 - 整个过程都是自动完成的,用户无需任何手动操作。这为用户提供了无缝、快捷的蓝牙配对体验。
 
+Google Fast Pairing
+- Bluetooth LE
+- Algorithms:
+- AES-128, SHA-256, ECDH（Elliptic Curve Diffie-Hellman, ECDH是一种基于椭圆曲线密码学的密钥交换协议，用于安全地协商双方之间的共享密钥。它是一种非对称加密算法，可用于在蓝牙设备之间建立安全的通信连接。）
+- Device有ECDH私钥
+
+  
 >dabch，记录自己的学习。
 
