@@ -8,8 +8,6 @@ tags:
     - Bluetooth
 ---
 
-> 萌新请参考: [用Github免费建立网站](https://www.bilibili.com/video/BV12H4y1N7Q4/)、[markdown常用语法](https://blog.csdn.net/Charmve/article/details/103717763)
-
 ### 最近的一些感悟，主要是操作要遵守的一些规则。
 
 #### 1）选股要自顶向下
@@ -23,5 +21,6 @@ tags:
 
 #### 3）尽量避免单纯套牢引发的补仓
 - 因为子弹有限，补了可能继续下跌
-  
->dabch，记录自己的学习。
+
+> 萌新请参考: [用Github免费建立网站](https://www.bilibili.com/video/BV12H4y1N7Q4/)、[markdown常用语法](https://blog.csdn.net/Charmve/article/details/103717763)  
+> dabch - 记录自己的学习。
